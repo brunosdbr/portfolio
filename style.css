@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url(imagens/bruno.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
