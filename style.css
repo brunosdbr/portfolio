@@ -11,7 +11,12 @@ body{
     background: #2f363e;
 }
 .header{
-    margin: 0px 0px 0px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 10px 0px 0px;
+    color: #90b3db;
+}
+main{
+    padding-bottom: 0px 0px 0px 5px;
 }
 .menu{
     position: relative;
