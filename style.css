@@ -43,8 +43,23 @@ main{
     transform: rotate(0deg) translateX(110px);
 }
 .menu.active li{
-    transform: rotate(calc(360deg / 8 * var(--i))) 
+    transform: rotate(calc(360deg / 7 * var(--i))) 
     translateX(0px);
+}
+#certo{
+    transform: rotate(108deg);
+}
+#certo2{
+    transform: rotate(145deg);
+}
+#certo3{
+    transform: rotate(205deg);
+}
+#certo4{
+    transform: rotate(-50deg);
+}
+#certo5{
+    transform: rotate(-50deg);
 }
 .menu li a{
     display: flex;
