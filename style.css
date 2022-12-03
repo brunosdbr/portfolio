@@ -4,17 +4,22 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(imagens/bruno.jpg);
+    background-image: url(imagens/fundo2.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #2f363e;
+   
 }
 .header{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: transparent;
     padding: 0px 10px 0px 0px;
-    color: #90b3db;
+    color: #5982b1;
 }
 main{
     padding-bottom: 0px 0px 0px 5px;
@@ -67,7 +72,7 @@ main{
     position: absolute;
     width: 60px;
     height: 60px;
-    background: #2f363e;
+    background: #9ac1e7;
     border: 2px solid #fff;
     border-radius: 50%;
     color: #fff;
