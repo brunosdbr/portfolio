@@ -19,7 +19,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: transparent;
     padding: 0px 10px 0px 0px;
+    
+}
+header > h1{
     color: #5982b1;
+    text-shadow: 2 px solid black;
 }
 main{
     padding-bottom: 0px 0px 0px 5px;
